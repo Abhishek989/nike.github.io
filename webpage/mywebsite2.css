@@ -1,0 +1,49 @@
+.container .content .boxes {
+display: grid;
+justify-items: center;
+}
+.container .content .boxes .boxes-container img{
+width: 500px;
+}
+.boxes-container {
+  display: ruby;
+}
+
+.image-container {
+    position: relative;
+}
+.text-container {
+    position: absolute;
+    display: grid;
+    width: 100%;
+    top: 84%;
+    justify-content: center;
+}
+.container .content .boxes .boxes-container p {
+    color: black;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 431;
+    line-height: 1.167;
+    font-size: 25px;
+    width: 100%;
+}
+.content {
+    margin-top: 46px;
+}
+.text-container button{
+      width: 116px;
+    border-radius: 55px;
+    background: black;
+    color: white;
+    border: none;
+    height: 32px;
+}
+.text-container button:hover{
+
+    background: white;
+    color: black;
+ 
+}
+.text-container p{
+  width: 100px;
+}
