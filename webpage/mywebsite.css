@@ -262,7 +262,7 @@ margin: 20px;
 height: 36vw;
 }
 .last-middle .box .image-container2 {
-display: ruby-base;
+display: inline-block;
 }
 .text-button1{
 position: absolute;
