@@ -11,6 +11,7 @@ width: 500px;
 
 .image-container {
     position: relative;
+  display:inline-block;
 }
 .text-container {
     position: absolute;
